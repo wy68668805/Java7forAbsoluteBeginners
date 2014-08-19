@@ -31,6 +31,7 @@ public class AverageTest {
 
 		System.out.println("AverageImpl.averageTwoNumbers(1, 2) = "
 				+ AverageImpl.averageTwoNumbers(1, 2));
+		System.out.println(Math.PI);
 
 	}
 
